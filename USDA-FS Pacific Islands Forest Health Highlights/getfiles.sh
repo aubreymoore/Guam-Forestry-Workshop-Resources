@@ -1,0 +1,11 @@
+wget https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/fseprd509273.pdf
+wget https://www.fs.fed.us/foresthealth/fhm/fhh/fhh_14/PI_FHH_2014.pdf
+wget https://www.fs.fed.us/foresthealth/fhm/fhh/fhh_13/PI_FHH_2013.pdf
+wget https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/stelprdb5415097.pdf
+wget https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/stelprdb5366605.pdf
+wget https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/stelprdb5331727.pdf
+wget https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/stelprdb5331727.pdf
+wget https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/fsbdev3_046082.pdf
+wget https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/fsbdev3_045559.pdf
+wget https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/fsbdev3_046419.pdf
+wget https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/fsbdev3_045555.pdf

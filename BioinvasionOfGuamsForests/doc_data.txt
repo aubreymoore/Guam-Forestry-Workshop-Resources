@@ -1,0 +1,873 @@
+InfoBegin
+InfoKey: ModDate
+InfoValue: D:20140416113843+10'00'
+InfoBegin
+InfoKey: CreationDate
+InfoValue: D:20140401123230+10'00'
+InfoBegin
+InfoKey: Author
+InfoValue: Aubrey Moore
+InfoBegin
+InfoKey: Creator
+InfoValue: Impress
+InfoBegin
+InfoKey: Producer
+InfoValue: LibreOffice 3.5
+PdfID0: 070a758bb18b988b7be06ff93d364060
+PdfID1: 1ddbf2529dbf1f45ab401b8a69f925f3
+NumberOfPages: 95
+BookmarkBegin
+BookmarkTitle: Slide 1
+BookmarkLevel: 1
+BookmarkPageNumber: 1
+BookmarkBegin
+BookmarkTitle: Slide 3
+BookmarkLevel: 1
+BookmarkPageNumber: 3
+BookmarkBegin
+BookmarkTitle: Slide 4
+BookmarkLevel: 1
+BookmarkPageNumber: 4
+BookmarkBegin
+BookmarkTitle: Slide 5
+BookmarkLevel: 1
+BookmarkPageNumber: 5
+BookmarkBegin
+BookmarkTitle: Slide 6
+BookmarkLevel: 1
+BookmarkPageNumber: 6
+BookmarkBegin
+BookmarkTitle: Slide 7
+BookmarkLevel: 1
+BookmarkPageNumber: 7
+BookmarkBegin
+BookmarkTitle: Slide 8
+BookmarkLevel: 1
+BookmarkPageNumber: 8
+BookmarkBegin
+BookmarkTitle: Slide 9
+BookmarkLevel: 1
+BookmarkPageNumber: 9
+BookmarkBegin
+BookmarkTitle: Slide 10
+BookmarkLevel: 1
+BookmarkPageNumber: 10
+BookmarkBegin
+BookmarkTitle: Slide 11
+BookmarkLevel: 1
+BookmarkPageNumber: 11
+BookmarkBegin
+BookmarkTitle: Slide 12
+BookmarkLevel: 1
+BookmarkPageNumber: 12
+BookmarkBegin
+BookmarkTitle: Slide 13
+BookmarkLevel: 1
+BookmarkPageNumber: 13
+BookmarkBegin
+BookmarkTitle: Slide 14
+BookmarkLevel: 1
+BookmarkPageNumber: 14
+BookmarkBegin
+BookmarkTitle: Slide 15
+BookmarkLevel: 1
+BookmarkPageNumber: 15
+BookmarkBegin
+BookmarkTitle: Slide 16
+BookmarkLevel: 1
+BookmarkPageNumber: 16
+BookmarkBegin
+BookmarkTitle: Slide 17
+BookmarkLevel: 1
+BookmarkPageNumber: 17
+BookmarkBegin
+BookmarkTitle: Slide 18
+BookmarkLevel: 1
+BookmarkPageNumber: 18
+BookmarkBegin
+BookmarkTitle: Slide 19
+BookmarkLevel: 1
+BookmarkPageNumber: 19
+BookmarkBegin
+BookmarkTitle: Slide 20
+BookmarkLevel: 1
+BookmarkPageNumber: 20
+BookmarkBegin
+BookmarkTitle: Case Study: Aulacaspis Cycad Scale
+BookmarkLevel: 1
+BookmarkPageNumber: 21
+BookmarkBegin
+BookmarkTitle: Slide 22
+BookmarkLevel: 1
+BookmarkPageNumber: 22
+BookmarkBegin
+BookmarkTitle: Slide 23
+BookmarkLevel: 1
+BookmarkPageNumber: 23
+BookmarkBegin
+BookmarkTitle: Slide 24
+BookmarkLevel: 1
+BookmarkPageNumber: 24
+BookmarkBegin
+BookmarkTitle: Slide 25
+BookmarkLevel: 1
+BookmarkPageNumber: 25
+BookmarkBegin
+BookmarkTitle: Slide 26
+BookmarkLevel: 1
+BookmarkPageNumber: 26
+BookmarkBegin
+BookmarkTitle: Slide 27
+BookmarkLevel: 1
+BookmarkPageNumber: 27
+BookmarkBegin
+BookmarkTitle: Slide 28
+BookmarkLevel: 1
+BookmarkPageNumber: 28
+BookmarkBegin
+BookmarkTitle: Slide 29
+BookmarkLevel: 1
+BookmarkPageNumber: 29
+BookmarkBegin
+BookmarkTitle: Slide 30
+BookmarkLevel: 1
+BookmarkPageNumber: 30
+BookmarkBegin
+BookmarkTitle: Slide 31
+BookmarkLevel: 1
+BookmarkPageNumber: 31
+BookmarkBegin
+BookmarkTitle: Slide 32
+BookmarkLevel: 1
+BookmarkPageNumber: 32
+BookmarkBegin
+BookmarkTitle: Slide 33
+BookmarkLevel: 1
+BookmarkPageNumber: 33
+BookmarkBegin
+BookmarkTitle: Slide 34
+BookmarkLevel: 1
+BookmarkPageNumber: 34
+BookmarkBegin
+BookmarkTitle: Slide 35
+BookmarkLevel: 1
+BookmarkPageNumber: 35
+BookmarkBegin
+BookmarkTitle: Slide 36
+BookmarkLevel: 1
+BookmarkPageNumber: 36
+BookmarkBegin
+BookmarkTitle: Fadang plants flush at start of 2005 rainy season
+BookmarkLevel: 1
+BookmarkPageNumber: 37
+BookmarkBegin
+BookmarkTitle: Slide 38
+BookmarkLevel: 1
+BookmarkPageNumber: 38
+BookmarkBegin
+BookmarkTitle: New cycad growth defoliated by Chilades pandava larvae
+BookmarkLevel: 1
+BookmarkPageNumber: 39
+BookmarkBegin
+BookmarkTitle: Chilades pandava larva on Cycas micronesica with attendant ant, Aplopolepis gracilipes
+BookmarkLevel: 1
+BookmarkPageNumber: 40
+BookmarkBegin
+BookmarkTitle: Slide 41
+BookmarkLevel: 1
+BookmarkPageNumber: 41
+BookmarkBegin
+BookmarkTitle: Slide 42
+BookmarkLevel: 1
+BookmarkPageNumber: 42
+BookmarkBegin
+BookmarkTitle: Slide 43
+BookmarkLevel: 1
+BookmarkPageNumber: 43
+BookmarkBegin
+BookmarkTitle: First Coconut Rhinoceros Beetle Collected on Guam 11-Sep-2007 Tumon Bay
+BookmarkLevel: 1
+BookmarkPageNumber: 44
+BookmarkBegin
+BookmarkTitle: background-2
+BookmarkLevel: 1
+BookmarkPageNumber: 45
+BookmarkBegin
+BookmarkTitle: Slide 46
+BookmarkLevel: 1
+BookmarkPageNumber: 46
+BookmarkBegin
+BookmarkTitle: Slide 47
+BookmarkLevel: 1
+BookmarkPageNumber: 47
+BookmarkBegin
+BookmarkTitle: Slide 48
+BookmarkLevel: 1
+BookmarkPageNumber: 48
+BookmarkBegin
+BookmarkTitle: background-6
+BookmarkLevel: 1
+BookmarkPageNumber: 49
+BookmarkBegin
+BookmarkTitle: background-7
+BookmarkLevel: 1
+BookmarkPageNumber: 50
+BookmarkBegin
+BookmarkTitle: background-13
+BookmarkLevel: 1
+BookmarkPageNumber: 51
+BookmarkBegin
+BookmarkTitle: background-14
+BookmarkLevel: 1
+BookmarkPageNumber: 52
+BookmarkBegin
+BookmarkTitle: background-15
+BookmarkLevel: 1
+BookmarkPageNumber: 53
+BookmarkBegin
+BookmarkTitle: background-16
+BookmarkLevel: 1
+BookmarkPageNumber: 54
+BookmarkBegin
+BookmarkTitle: background-17
+BookmarkLevel: 1
+BookmarkPageNumber: 55
+BookmarkBegin
+BookmarkTitle: background-18
+BookmarkLevel: 1
+BookmarkPageNumber: 56
+BookmarkBegin
+BookmarkTitle: background-19
+BookmarkLevel: 1
+BookmarkPageNumber: 57
+BookmarkBegin
+BookmarkTitle: background-20
+BookmarkLevel: 1
+BookmarkPageNumber: 58
+BookmarkBegin
+BookmarkTitle: background-94
+BookmarkLevel: 1
+BookmarkPageNumber: 59
+BookmarkBegin
+BookmarkTitle: background-101
+BookmarkLevel: 1
+BookmarkPageNumber: 60
+BookmarkBegin
+BookmarkTitle: background-102
+BookmarkLevel: 1
+BookmarkPageNumber: 61
+BookmarkBegin
+BookmarkTitle: background-103
+BookmarkLevel: 1
+BookmarkPageNumber: 62
+BookmarkBegin
+BookmarkTitle: background-104
+BookmarkLevel: 1
+BookmarkPageNumber: 63
+BookmarkBegin
+BookmarkTitle: background-105
+BookmarkLevel: 1
+BookmarkPageNumber: 64
+BookmarkBegin
+BookmarkTitle: background-106
+BookmarkLevel: 1
+BookmarkPageNumber: 65
+BookmarkBegin
+BookmarkTitle: background-107
+BookmarkLevel: 1
+BookmarkPageNumber: 66
+BookmarkBegin
+BookmarkTitle: background-109
+BookmarkLevel: 1
+BookmarkPageNumber: 67
+BookmarkBegin
+BookmarkTitle: background-110
+BookmarkLevel: 1
+BookmarkPageNumber: 68
+BookmarkBegin
+BookmarkTitle: background-111
+BookmarkLevel: 1
+BookmarkPageNumber: 69
+BookmarkBegin
+BookmarkTitle: background-112
+BookmarkLevel: 1
+BookmarkPageNumber: 70
+BookmarkBegin
+BookmarkTitle: background-113
+BookmarkLevel: 1
+BookmarkPageNumber: 71
+BookmarkBegin
+BookmarkTitle: background-114
+BookmarkLevel: 1
+BookmarkPageNumber: 72
+BookmarkBegin
+BookmarkTitle: background-119
+BookmarkLevel: 1
+BookmarkPageNumber: 73
+BookmarkBegin
+BookmarkTitle: Slide 74
+BookmarkLevel: 1
+BookmarkPageNumber: 74
+BookmarkBegin
+BookmarkTitle: Slide 75
+BookmarkLevel: 1
+BookmarkPageNumber: 75
+BookmarkBegin
+BookmarkTitle: Slide 76
+BookmarkLevel: 1
+BookmarkPageNumber: 76
+BookmarkBegin
+BookmarkTitle: Slide 77
+BookmarkLevel: 1
+BookmarkPageNumber: 77
+BookmarkBegin
+BookmarkTitle: Slide 78
+BookmarkLevel: 1
+BookmarkPageNumber: 78
+BookmarkBegin
+BookmarkTitle: Slide 79
+BookmarkLevel: 1
+BookmarkPageNumber: 79
+BookmarkBegin
+BookmarkTitle: Slide 80
+BookmarkLevel: 1
+BookmarkPageNumber: 80
+BookmarkBegin
+BookmarkTitle: Slide 81
+BookmarkLevel: 1
+BookmarkPageNumber: 81
+BookmarkBegin
+BookmarkTitle: Slide 82
+BookmarkLevel: 1
+BookmarkPageNumber: 82
+BookmarkBegin
+BookmarkTitle: New Insect Pests Detected on Guam Since Jan. 2002
+BookmarkLevel: 1
+BookmarkPageNumber: 83
+BookmarkBegin
+BookmarkTitle: Slide 84
+BookmarkLevel: 1
+BookmarkPageNumber: 84
+BookmarkBegin
+BookmarkTitle: Slide 85
+BookmarkLevel: 1
+BookmarkPageNumber: 85
+BookmarkBegin
+BookmarkTitle: Slide 86
+BookmarkLevel: 1
+BookmarkPageNumber: 86
+BookmarkBegin
+BookmarkTitle: Slide 87
+BookmarkLevel: 1
+BookmarkPageNumber: 87
+BookmarkBegin
+BookmarkTitle: Slide 88
+BookmarkLevel: 1
+BookmarkPageNumber: 88
+BookmarkBegin
+BookmarkTitle: Slide 89
+BookmarkLevel: 1
+BookmarkPageNumber: 89
+BookmarkBegin
+BookmarkTitle: Slide 90
+BookmarkLevel: 1
+BookmarkPageNumber: 90
+BookmarkBegin
+BookmarkTitle: Slide 91
+BookmarkLevel: 1
+BookmarkPageNumber: 91
+BookmarkBegin
+BookmarkTitle: Slide 92
+BookmarkLevel: 1
+BookmarkPageNumber: 92
+BookmarkBegin
+BookmarkTitle: Slide 93
+BookmarkLevel: 1
+BookmarkPageNumber: 93
+BookmarkBegin
+BookmarkTitle: Slide 94
+BookmarkLevel: 1
+BookmarkPageNumber: 94
+BookmarkBegin
+BookmarkTitle: Slide 95
+BookmarkLevel: 1
+BookmarkPageNumber: 95
+BookmarkBegin
+BookmarkTitle: Slide 96
+BookmarkLevel: 1
+BookmarkPageNumber: 0
+PageMediaBegin
+PageMediaNumber: 1
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 2
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 3
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 4
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 5
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 6
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 7
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 8
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 9
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 10
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 11
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 12
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 13
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 14
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 15
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 16
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 17
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 18
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 19
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 20
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 21
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 22
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 23
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 24
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 25
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 26
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 27
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 28
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 29
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 30
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 31
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 32
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 33
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 34
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 35
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 36
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 37
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 38
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 39
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 40
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 41
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 42
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 43
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 44
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 45
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 46
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 47
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 48
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 49
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 50
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 51
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 52
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 53
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 54
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 55
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 56
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 57
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 58
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 59
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 60
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 61
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 62
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 63
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 64
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 65
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 66
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 67
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 68
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 69
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 70
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 71
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 72
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 73
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 74
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 75
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 76
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 77
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 78
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 79
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 80
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 81
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 82
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 83
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 84
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 85
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 86
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 87
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 88
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 89
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 90
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 91
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 92
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 93
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 94
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
+PageMediaBegin
+PageMediaNumber: 95
+PageMediaRotation: 0
+PageMediaRect: 0 0 794 595
+PageMediaDimensions: 794 595
