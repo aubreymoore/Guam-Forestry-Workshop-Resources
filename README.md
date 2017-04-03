@@ -62,7 +62,7 @@ Presenter: Moore
 
 Time: 3:45 - 4:05 (20 min)
 
-Presentation: **Emerging Forest Insect Pest Issues in Micronesia** [HTML](reveal/reveal.js/EmergingForestPests.html)
+Presentation: **Emerging Forest Insect Pest Issues in Micronesia** [HTML](https://github.com/aubreymoore/Guam-Forestry-Workshop-Resources/raw/master/EmergingForestPests.html)
 
 * Coconut Termite on Kosrae
 * Recently Detected Bark Beetles on Guam
@@ -80,6 +80,8 @@ Time: 4:05 - 4:25 (20 min)
 [Elevitch: Traditional Trees of Pacific Islands](http://agroforestry.org/projects/traditional-tree-initiative)
 
 [PestNet](http://www.pestnet.org/)
+
+[PlantWise](http://www.plantwise.org)
 
 **Pacific Islands Forestry Highlights**
 
@@ -101,15 +103,14 @@ Presenter: Moore
 
 Time: 4:25 - 4:45 (20 min)
 
-* iNaturalist
-* EpiCollect
+[iNaturalist](www.inaturalist.org)
+* [Insects of Mocronesia Project](http://www.inaturalist.org/projects/insects-of-micronesia)
+* [Vespa Tropia on Guam Project](http://www.inaturalist.org/projects/vespa-tropica-on-guam)
+
+[EpiCollect](http://www.epicollect.net/)
+* Example application: [CRB tree damage survey](https://github.com/aubreymoore/Guam-Forestry-Workshop-Resources/raw/master/EpiCollect.html)
+* Nice maps can be made using [QGIS](http://www.qgis.org/en/site/)
 
 ## Open Discussion
 
 Time: 4:45 - 5:00 (15 min)
-
-
-  [1]: https://aubreymoore.github.io/PDF_to_Reveal/reveal.js/slides.html
-
-
-
