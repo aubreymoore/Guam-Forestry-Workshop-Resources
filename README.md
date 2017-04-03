@@ -1,19 +1,3 @@
-# Guam Forestry Workshop Resources
-
-Resources for an afternoon of presentations on forest insect pests. Guam, April 4, 2017.
-
-- Biological Invasion of Forests on Guam and Other Islands in Micronesia [HTML](https://aubreymoore.github.io/PDF_to_Reveal/reveal.js/slides.html)
-
-- Biological Invasion of Guam [PDF](https://github.com/aubreymoore/Guam-Forestry-Workshop-Resources/raw/master/BioInvasionOfGuamMBP20100119.pdf)
-
-- Coconut Rhinoceros Beetle [PDF](https://github.com/aubreymoore/Guam-Forestry-Workshop-Resources/raw/master/Aubrey%20ICE2016.pdf)
-
-- Biological Control of Cycad Scale, *Aulacaspis yasumatsui*, Attacking Guam's Endemic Cycad, *Cycas micronesica* [PDF](https://github.com/aubreymoore/Guam-Forestry-Workshop-Resources/raw/master/CycadScaleBiocontrolChile.pdf)
-
-- Emerging Forest Insect Issues in Micronesia [HTML](https://aubreymoore.github.io/Guam-Forestry-Workshop-Resources/reveal/reveal.js/EmergingForestPests.html)
-
-
-
 <h1>2017 Pacific Island Forestry Professionals Workshop</h1>
 
 <h2>Concurrent Session 1B: Forest Health Protection: <b>Entomology</b></h2>
@@ -22,7 +6,6 @@ Tuesday afternoon, April 4
 
 3rd Floor Unnai Ballroom 3, Westin Hotel, Tumon Bay, Guam
 
-@[toc](Presentations)
 
 ## Introduction
 
@@ -30,7 +13,7 @@ Presenter: Moore
 
 Time: 1:00 - 1:15 (15 min)
 
-Presentation (HTML): [Biological Invasion of Guam's Forests][1]
+Presentation: **Biological Invasion of Forests on Guam and Other Islands in Micronesia** [HTML](https://aubreymoore.github.io/PDF_to_Reveal/reveal.js/slides.html)
 
 ## Biological Invasion of Guam
 
@@ -38,7 +21,8 @@ Presenter: Moore
 
 Time: 1:15 - 1:45 (30 min)
 
-Presentation (PDF): <http://guaminsects.net/Ross/BioInvasionOfGuamMBP20100119.pdf>
+Presentation: **Biological Invasion of Guam** [PDF](https://github.com/aubreymoore/Guam-Forestry-Workshop-Resources/raw/master/BioInvasionOfGuamMBP20100119.pdf)
+
 
 ## Coconut Rhinoceros Beetle
 
@@ -46,7 +30,8 @@ Presenter: Moore (30 min)
 
 Time: 1:45 - 2:15
 
-Presentation (PDF): <https://osf.io/f8u2g/>
+Presentation: **The coconut rhinoceros beetle invasion of Guam: An unprecedented disaster** [PDF](https://github.com/aubreymoore/Guam-Forestry-Workshop-Resources/raw/master/Aubrey%20ICE2016.pdf)
+
 
 ## Asian Cycad Scale
 
@@ -54,8 +39,7 @@ Presenter: Moore (30 min)
 
 Time: 2:15 - 2:45 (30 min)
 
-Presentation (PDF): 
-<http://www.guaminsects.net/Ross/CycadScaleBiocontrolChile.pdf>
+Presentation: - Biological Control of Cycad Scale, *Aulacaspis yasumatsui*, Attacking Guam's Endemic Cycad, *Cycas micronesica* [PDF](https://github.com/aubreymoore/Guam-Forestry-Workshop-Resources/raw/master/CycadScaleBiocontrolChile.pdf)
 
 ---
 
@@ -78,8 +62,9 @@ Presenter: Moore
 
 Time: 3:45 - 4:05 (20 min)
 
+Presentation: **Emerging Forest Insect Pest Issues in Micronesia** [HTML](reveal/reveal.js/EmergingForestPests.html)
+
 * Coconut Termite on Kosrae
-    * <http://lrd.spc.int/pubs/doc_download/2303-ph-agalertno49>
 * Recently Detected Bark Beetles on Guam
 * Flame Tree Looper Outbreak on Saipan
 * Greater Banded Hornet on Guam
