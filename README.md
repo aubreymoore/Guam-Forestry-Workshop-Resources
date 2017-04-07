@@ -56,6 +56,8 @@ Presenter: Duay
 
 Time: 3:15 - 3:45 (30 min)
 
+Presentation: Little Fire Ant [PDF](https://github.com/aubreymoore/Guam-Forestry-Workshop-Resources/raw/master/LFA_Duay.pdf)
+
 ## Emerging Forest Insect Pest Issues in Micronesia
 
 Presenter: Moore
