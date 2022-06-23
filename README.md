@@ -118,3 +118,8 @@ Time: 4:25 - 4:45 (20 min)
 ## Open Discussion
 
 Time: 4:45 - 5:00 (15 min)
+
+# Additional Resources added June 24, 2022
+
+[Guam Forests Video 7 min]https://youtu.be/JD0Xz9g-YSo
+
