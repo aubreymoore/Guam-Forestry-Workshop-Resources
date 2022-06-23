@@ -41,7 +41,7 @@ Presenter: Moore (30 min)
 
 Time: 2:15 - 2:45 (30 min)
 
-Presentation: - Biological Control of Cycad Scale, *Aulacaspis yasumatsui*, Attacking Guam's Endemic Cycad, *Cycas micronesica* [PDF](https://github.com/aubreymoore/Guam-Forestry-Workshop-Resources/raw/master/CycadScaleBiocontrolChile.pdf)
+Presentation: - **Biological Control of Cycad Scale, *Aulacaspis yasumatsui*, Attacking Guam's Endemic Cycad, *Cycas micronesica* ** [PDF](https://github.com/aubreymoore/Guam-Forestry-Workshop-Resources/raw/master/CycadScaleBiocontrolChile.pdf)
 
 ---
 
