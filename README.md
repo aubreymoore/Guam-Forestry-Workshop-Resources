@@ -2,12 +2,10 @@
 
 <h2>Concurrent Session 1B: Forest Health Protection: <b>Entomology</b></h2>
 
-Tuesday afternoon, April 4
-
+Tuesday afternoon, April 4<br>
 3rd Floor Unnai Ballroom 3, Westin Hotel, Tumon Bay, Guam
 
-GitHub repository: <https://github.com/aubreymoore/Guam-Forestry-Workshop-Resources>
-
+GitHub repository: <https://github.com/aubreymoore/Guam-Forestry-Workshop-Resources><br>
 GitHub pages:<https://aubreymoore.github.io/Guam-Forestry-Workshop-Resources>
 
 ## Additional Resources added June 24, 2022
