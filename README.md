@@ -1,5 +1,3 @@
-<h1>https://github.com/aubreymoore/Guam-Forestry-Workshop-Resources</h1>
-
 <h1>2017 Pacific Island Forestry Professionals Workshop</h1>
 
 <h2>Concurrent Session 1B: Forest Health Protection: <b>Entomology</b></h2>
@@ -8,6 +6,16 @@ Tuesday afternoon, April 4
 
 3rd Floor Unnai Ballroom 3, Westin Hotel, Tumon Bay, Guam
 
+GitHub repository: <https://github.com/aubreymoore/Guam-Forestry-Workshop-Resources>
+GitHub pages:<https://aubreymoore.github.io/Guam-Forestry-Workshop-Resources>
+
+## Additional Resources added June 24, 2022
+
+[**Video: Guam Forests** (7 min)](https://youtu.be/JD0Xz9g-YSo)
+
+[**Table: Guam's dominant trees attacked by invasive species**](https://github.com/aubreymoore/CAS-biocontrol-seminar/raw/main/dominant_trees.pdf)
+
+[**Webinar recording: Cycad Scale Biocontrol**](https://aubreymoore.github.io/CAS-biocontrol-seminar/)
 
 ## Introduction
 
@@ -119,13 +127,6 @@ Time: 4:25 - 4:45 (20 min)
 
 Time: 4:45 - 5:00 (15 min)
 
-# Additional Resources added June 24, 2022
-
-[**Video: Guam Forests** (7 min)](https://youtu.be/JD0Xz9g-YSo)
-
-[**Table: Guam's dominant trees attacked by invasive species**](https://github.com/aubreymoore/CAS-biocontrol-seminar/raw/main/dominant_trees.pdf)
-
-[**Webinar recording: Cycad Scale Biocontrol**](https://aubreymoore.github.io/CAS-biocontrol-seminar/)
 
 
 
