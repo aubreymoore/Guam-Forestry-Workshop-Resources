@@ -121,5 +121,6 @@ Time: 4:45 - 5:00 (15 min)
 
 # Additional Resources added June 24, 2022
 
-[Guam Forests Video 7 min]https://youtu.be/JD0Xz9g-YSo
+* [Guam Forests Video 7 min]https://youtu.be/JD0Xz9g-YSo
+* [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
 
