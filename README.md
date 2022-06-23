@@ -24,7 +24,7 @@ Presenter: Moore
 
 Time: 1:00 - 1:15 (15 min)
 
-Presentation: **Biological Invasion of Forests on Guam and Other Islands in Micronesia** [HTML](https://aubreymoore.github.io/PDF_to_Reveal/reveal.js/slides.html)
+Presentation: [**Biological Invasion of Forests on Guam and Other Islands in Micronesia** (HTML)](https://aubreymoore.github.io/PDF_to_Reveal/reveal.js/slides.html)
 
 ## Biological Invasion of Guam
 
