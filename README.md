@@ -121,7 +121,13 @@ Time: 4:45 - 5:00 (15 min)
 
 # Additional Resources added June 24, 2022
 
-[**Guam Forests Video** (7 min)](https://youtu.be/JD0Xz9g-YSo)
+[**Video: Guam Forests** (7 min)](https://youtu.be/JD0Xz9g-YSo)
+
+[**Table: Guam's dominant trees attacked by invasive species**](https://github.com/aubreymoore/CAS-biocontrol-seminar/raw/main/dominant_trees.pdf)
+
+[**Webinar recording: Cycad Scale Biocontrol**](https://aubreymoore.github.io/CAS-biocontrol-seminar/)
+
+
 
 
 
