@@ -7,6 +7,7 @@ Tuesday afternoon, April 4
 3rd Floor Unnai Ballroom 3, Westin Hotel, Tumon Bay, Guam
 
 GitHub repository: <https://github.com/aubreymoore/Guam-Forestry-Workshop-Resources>
+
 GitHub pages:<https://aubreymoore.github.io/Guam-Forestry-Workshop-Resources>
 
 ## Additional Resources added June 24, 2022
